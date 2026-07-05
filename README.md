@@ -1,8 +1,4 @@
-Hi there! 👋 I'm Ini Abasi
-
-Data Analyst | BI Developer | Database Administrator | SQL
-
-Transforming data into actionable insights through analytics, visualization, and business intelligence.
+<img width="2172" height="724" alt="C5889888-DEF6-4540-9E62-D52E658ACC48" src="https://github.com/user-attachments/assets/ce6292f8-c730-4692-836f-6ab7703b1129" />
 
 
  👨‍💻 About Me
@@ -43,8 +39,9 @@ Professional Focus
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-Development Tools
-- Visual Studio Code
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 
 📂 Portfolio Projects
