@@ -28,27 +28,21 @@ Professional Focus
 - Data Storytelling
 
 
-🛠 Technical Skills
+🛠 Tools & Technical Skills
 
-Programming & Query Languages
-- SQL
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 
-Data Analysis
-- Microsoft Excel
-- SQL
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Business Intelligence & Visualization
-- Power BI
-- Tableau
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Database Management
-- MySQL
-- PostgreSQL
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-Version Control
-- Git
-- GitHub
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 Development Tools
 - Visual Studio Code
 
@@ -113,9 +107,9 @@ My objective is to contribute to organizations by transforming raw data into str
 
 🤝 Connect With Me:
 
-💼 LinkedIn: www.linkedin.com/in/ini-abasi
+💼 [LinkedIn](www.linkedin.com/in/ini-abasi)
 
-🌐 Portfolio: https://iniabasi.carrd.co
+🌐 [Portfolio](https://iniabasi.carrd.co)
 
 📧 Email: iniabasiokon44@gmail.com
 
