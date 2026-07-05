@@ -44,27 +44,6 @@ Professional Focus
 
 
 
-📂 Portfolio Projects
-
- 🎬 Netflix SQL Analysis
-
-An end-to-end SQL analytics project exploring Netflix's content library to identify business insights across content type, genre, country distribution, release trends, ratings, and duration.
-
-Key Deliverables
-
-- Database design
-- Data exploration
-- Complex SQL querying
-- Business insight generation
-- Trend analysis
-- Performance reporting
-
-Technologies
-
-- SQL
-- PostgreSQL
-
-
 📈 Current Learning Roadmap
 
 - Advanced SQL
